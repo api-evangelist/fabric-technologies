@@ -47,7 +47,7 @@ tags:
 - Fintech
 - Insurance
 - Life Insurance
-- Financial-Services
+- Financial Services
 - Estate Planning
 - Investing
 - Wills
@@ -60,6 +60,7 @@ tags_raw:
 - Estate Planning
 - Investing
 - Wills
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
